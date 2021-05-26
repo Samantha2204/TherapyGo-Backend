@@ -4,6 +4,11 @@ This project is about a client-server system for small massage shop's owner/rece
 
 **This repository includes only the backend part, and the frontend part can be found at my repositories list, called TherapyGo-Frontend.**
 
+## Technologies Used
+* Koa
+* Node.js
+* Mongodb
+
 ## Users and Functions
 * Boss
   * Manage Staff List
