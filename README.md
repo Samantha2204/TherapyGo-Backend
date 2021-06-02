@@ -38,6 +38,9 @@ https://user-images.githubusercontent.com/37108397/119604053-c1db9400-be31-11eb-
 ### **From The Customer's Perspective**
 https://user-images.githubusercontent.com/37108397/119604057-c4d68480-be31-11eb-97b6-750c95f8eeab.mov
 
+### **Error Pages 404 (Page Not Found - Animated) and 500 (Internal Server Error)**
+https://user-images.githubusercontent.com/37108397/120418935-c5789900-c3a4-11eb-9446-f0e69631dbd6.mov
+
 ## How To Run The Project
 
 In the project directory, you can run:
