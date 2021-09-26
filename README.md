@@ -1,6 +1,6 @@
 # TherapyGo
 
-This project is about a client-server system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointments through the website easily and keep track of their activities from the user platform.
+This project is about a full stack system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointments through the website easily and keep track of their activities from the user platform.
 
 **This repository includes only the backend part, and the frontend part can be found at my repositories list, called TherapyGo-Frontend.**
 
